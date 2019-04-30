@@ -3,7 +3,7 @@
 setterm -cursor off
 
 # set here the path to the directory containing your videos
-VideoLocation="~/Desktop/Content"
+VideoLocation="/home/pi/Desktop/Content"
 # you can probably leave this alone
 Process="omxplayer"
 # our loop
